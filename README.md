@@ -1,4 +1,4 @@
-Hi, I am @hogara-okamoto, an independent web engineer, usually handling HTML, PHP, MySQL, and Python. 
+Hi, I am @hogara-okamoto, an independent web engineer, usually handling HTML, JavaScript, PHP, MySQL, and Python. 
 My current interests are machine learning and blockchain—beginner at Git.
 Contact email address :  okamoto@100dreams.co.jp
 <!---
